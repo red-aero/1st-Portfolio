@@ -1,0 +1,57 @@
+{
+  "HOME": {
+    "PRESENTATION_1": "Hey!!! My name is",
+    "PRESENTATION_2": "I'm a",
+    "TITLE_1": "Student",
+    "TITLE_2": "Web developer.",
+    "TITLE_3": "DB expert",
+    "TITLE_4": "lazy guy(sometimes)",
+    "SUMMARY": "I'm a student at Deakin University, Melbourne, pursuing a bachelor's degree in Information Technology.I enjoy turning complex problems into simple, beautiful and intuitive designs ans spend hours trying to fix an issue😮‍💨.",
+    "VIEW_CV": "View Resume"
+  },
+  "ABOUT": {
+    "TITLE": "About",
+    "SUMMARY_1": "Hey there, I'm <span class=\"highlight\">Harshit</span>,an 18-year-old student pursuing a Bachelor's degree in Information Technology (IT). My passion for technology and programming has led me to excel in various programming languages such as PHP, Ruby, and C++. I have a strong foundation in web development, which allows me to create dynamic and interactive websites.",
+    "SUMMARY_2": "One of my key strengths lies in <span class=\"highlight\">database management and SQL</span>. I'm adept at designing and optimizing databases to ensure efficient data storage and retrieval. Staying up-to-date with the latest trends and advancements in the tech world is something I take seriously, as it helps me keep my skills relevant and in tune with the rapidly evolving industry.",
+    "SUMMARY_3": "As a student of <span class=\"highlight\">IT</span>, I am constantly seeking opportunities to learn and grow, both academically and professionally. Whether it's exploring new programming languages, tackling challenging coding projects, or staying informed about emerging technologies, I am committed to staying at the forefront of the IT field.",
+    "SUMMARY_4": "I'm excited about the endless possibilities that the <span class=\"highlight\">world of technology</span> offers and look forward to contributing my skills and knowledge to make a meaningful impact in this ever-evolving industry."
+  },
+  "CAREER": {
+    "TITLE": "Career",
+    "HIGH SCHOOL": {
+      "RESUME_1": "I completed my high school from INDIA. I exceeded in Academics and Sports .",
+      "RESUME_2": "I was the captain of the school football team and won many trophies for the school.",
+      "RESUME_3": "I was also the head of the school's computer club and won many competitions for the school."
+    },
+    "DEAKIN UNIVERSITY": {
+      "RESUME_1": "After completing High School, I decide to arrive Australia and study at Deakin University. I'm currently pursuing a Bachelor's degree in Information Technology.",
+      "RESUME_2": "With a focus on practical skills and hands-on experience, I expect to graduate from this program in 2026 with a thorough understanding of how to be an IT expert while enjoying my UNI life and focus on developing myself as well."
+    },
+    "CURRENT": {
+      "RESUME_1": "Right now, im focusing on developing my skills, partaking in open competitions and working on my own projects."
+    }
+
+  },
+  "CONTACT": {
+    "TITLE": "Contact"
+  },
+  "PROJECTS": {
+    "TITLE": "Projects",
+    "COMING_SOON": "New projects coming very soon!!! 😎",
+    "REPOSITORY": "Repository",
+    "VIEW": "View",
+    "JSON_SEARCHER": "Through these assesments and projects, i've displayed my progress and knowledge in the IT field. I've also shown my ability to learn new technologies and languages quickly.",
+    "FEATURED": "Featured Project"
+  },
+  "HEADER": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "CAREER": "Career",
+    "PROJECTS": "Projects",
+    "CONTACT": "Contact"
+  },
+  "FOOTER": {
+    "AUTHOR": "Owned by Harshit",
+    "COPYRIGHT": "Copyright © 2077, Harshit"
+  }
+}

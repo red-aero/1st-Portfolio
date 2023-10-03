@@ -1,0 +1,71 @@
+:root {
+  /* Cores do tema light */
+  --default-background: #E9ECEF;
+  --secondary-background: #F8F9FA;
+  --dark-background: #212529;
+  --details-background: #FFFFFF;
+  --default-text: #212529;
+  --secondary-text: #495057;
+  --disabled-text: #7a838b;
+  --default-border: #CED4DA;
+}
+
+[data-theme="dark"] {
+  /* Cores do tema dark */
+  --default-background: #1E1E1E;
+  --secondary-background: #252525;
+  --dark-background: #000000;
+  --details-background: #141414;
+  --default-text: #FFFFFF;
+  --secondary-text: #A8A8A8;
+  --disabled-text: #707070;
+  --default-border: #454545;
+}
+
+html{scroll-behavior:smooth}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 8rem auto;
+  padding: 0 2rem;
+}
+
+/* Fade transition */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.15s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+
+.appear-on-scroll {
+  opacity: 0;
+  transition: all 0.4s ease-in-out 0.1s;
+  transform: translateY(35px);
+  filter: blur(2px);
+}
+
+.appear-on-scroll.appeared {
+  opacity: 1;
+  transform: translateY(0px);
+  filter: blur(0px);
+}
+
+.highlight {
+  color: var(--primary-text);
+  font-weight: 700;
+}
+
